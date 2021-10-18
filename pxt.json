@@ -1,0 +1,46 @@
+{
+    "name": "assessment",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#bdc56d",
+        "#1f2611",
+        "#7b8947",
+        "#93a958",
+        "#5c7236",
+        "#515c2c",
+        "#3e5121",
+        "#869587",
+        "#58604d",
+        "#a49454",
+        "#45FFEC",
+        "#FD0202",
+        "#FFF418",
+        "#1847FF",
+        "#abdbe3"
+    ]
+}
