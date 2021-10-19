@@ -4,6 +4,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "forest"
     },
+    "image2": {
+        "data": "hwQQABAAAABEREREREREREREREREREJEREREREQkokRERKhKRCKqSkSEiKpEIqqqRIgiqKoioqpEhCiIqKKnqkQoiCgocoeoRIiIiCqqp6pEhIKqSqqqqkREqkpEqqqqRERKRESkqqpERERERESqqkRERERERKSqREREREREREpERERERERERA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "seedBag"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
